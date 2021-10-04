@@ -4,8 +4,6 @@ author:
   email: nsb80@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
   Hola, bienvenidos a mi blog, que se trata de los proyectos de humanidades digitales que he estado haciendo en clase este semestre.
-  
-
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
