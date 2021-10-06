@@ -7,10 +7,10 @@ meta:"SPA410"
 date: 2021-09-15
 ---
 # Vincent Van Gogh: Las Cartas
-##Subtítulo 2
 
 
-<html>
+
+bla bla
 Esto es código
-</html>
-![foto](/assets/images/001.png)
+
+![foto](/assets/images/001.jpg)
