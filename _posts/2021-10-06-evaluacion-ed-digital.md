@@ -5,7 +5,6 @@ author:
 - Noah Beal
 meta:"SPA410"
 date: 2021-10-06
-
 ---
 # Vincent Van Gogh: Las Cartas
 
