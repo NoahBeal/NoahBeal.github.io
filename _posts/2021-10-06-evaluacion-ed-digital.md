@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Evaluación del proyecto Vincent Van Gogh: Las Cartas"
-author: 
-- Noah Beal
-- date: 2021-10-06
-meta:"SPA410"
+title: "Vuestro primer ensayo"
+date: 2021-09-08
+author: Noah Beal
 ---
 # Vincent Van Gogh: Las Cartas
 
