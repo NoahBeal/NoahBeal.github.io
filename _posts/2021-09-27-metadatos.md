@@ -5,7 +5,8 @@ date: 2021-09-27
 author: Noah... 
 ---
 
-Descripción de qué es Dublin Core, para qué sirve, quien lo hizo, quien lo utiliza, .... 
+Dublin Core es una iniciativa para crear una tarjeta de biblioteca digital para la web. Contiene 15 elementos de metadatos que ofrecen información ampliada y ayudan a mejorar la indexación de los programas de motores de búsqueda. 
+
 
 Los ejemplos seleccionados para su codificación: [enlace a la postal](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
 
