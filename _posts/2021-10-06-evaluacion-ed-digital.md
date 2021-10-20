@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post con todos los estilos de contenido en markdown"
+title: "Evaluación del proyecto Vincent Van Gogh: Las Cartas"
 author: 
 - Noah Beal
 meta:"SPA410"
