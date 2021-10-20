@@ -3,8 +3,8 @@ layout: post
 title: "Evaluación del proyecto Vincent Van Gogh: Las Cartas"
 author: 
 - Noah Beal
+- date: 2021-10-06
 meta:"SPA410"
-date: 2021-10-06
 ---
 # Vincent Van Gogh: Las Cartas
 
