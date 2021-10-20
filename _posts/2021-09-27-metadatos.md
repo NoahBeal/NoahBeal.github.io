@@ -8,9 +8,9 @@ author: Noah...
 Dublin Core es una iniciativa para crear una tarjeta de biblioteca digital para la web. Contiene 15 elementos de metadatos que ofrecen información ampliada y ayudan a mejorar la indexación de los programas de motores de búsqueda. 
 
 
-Los ejemplos seleccionados para su codificación: [enlace a la postal](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
+Para este ejercicio, echamos un vistazo a una postal de Federico García Lorca a José María Chacón y Calvo. Aquí, puede desglosar los metadatos para ampliar su conocimiento sobre la fuente. La fuente proviene de la colección de la biblioteca de la Universidad de Miami. : [enlace a la postal](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
 
-Los trozos de código deberán estar explicados y seguidamente reflejados: 
+ 
 
 ````
 <?xml version="1.0"?>
