@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vuestro primer ensayo"
+title: "Evaluación del proyecto Vincent Van Gogh: Las Cartas"
 date: 2021-10-06
 author: Noah Beal
 ---
