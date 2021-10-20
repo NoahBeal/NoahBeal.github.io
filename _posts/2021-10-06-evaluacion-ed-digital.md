@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vuestro primer ensayo"
-date: 2021-09-08
+date: 2021-10-06
 author: Noah Beal
 ---
 # Vincent Van Gogh: Las Cartas
