@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análisis de un proyecto de HD"
+title: "Presentación 1. Análisis de un proyecto de HD (Incompleta)"
 date: 2021-08-30
 author: vuestro nombre
 ---
