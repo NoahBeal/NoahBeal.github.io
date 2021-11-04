@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mapa sobre el recorrido de Leonor
+title: "Tarea 5: Mapa sobre el recorrido de Leonor"
 ---
 
 Leonor López de Córdoba, nacida en Catalyud (España), es considerada la primera mujer que escribió una autobiografía en español. Sus *Memorias* detallan su trágica vida desde su encarcelamiento hasta la muerte de su hijo. Con este relato, el lector puede comprender los pensamientos y sentimientos de Leonor así como el contexto histórico de ese momento. 
