@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Dublin Core, un lenguaje de metadatos: ejemplo comentado"
+title: "Tarea 3. Dublin Core, un ejemplo comentado (ejercicio incompleto)"
 date: 2021-09-27
-author: Noah... 
+author: Noah Beal 
 ---
+
+<span style="color:red;">Este ejercicio debe completarse correctamente o elminarse</span>
 
 Dublin Core es una iniciativa para crear una tarjeta de biblioteca digital para la web. Contiene 15 elementos de metadatos que ofrecen información ampliada y ayudan a mejorar la indexación de los programas de motores de búsqueda. Se utiliza con mucha frecuencia en museos, bibliotecas y muchas otras plataformas de publicación. 
 
